@@ -10,8 +10,8 @@ body {
 .container {
     text-align: center;
     background: lightgoldenrodyellow;
-    padding: 30px;
-    border-radius: 15px;
+    padding: 20px;
+    border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     width: 80%;
     max-width: 500px;
@@ -33,7 +33,7 @@ button:hover {
     background: #ff4c61;
 }
 .letter {
-    margin-top: 50px;
+    margin-top: 15px;
     text-align: left;
     line-height: 2.3;
     opacity: 0;
